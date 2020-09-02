@@ -1,1 +1,26 @@
+#StudioArt {background-color: darkcyan;}
+#Economics {background-color: aquamarine;}
+#Politics {background-color: cadetblue;}
+#ComputerScience {background-color: darkseagreen;}
+#Mathematics {background-color: darkturquoise;}
+img {border-radius: 50%;}
+#Mathematics {background-image: url("../../mathpic.jpeg");}
+#Mathematics { font-size: 20px;
+    color: black;
+    font-weight: bold;}
+#Mathematics table { font-size: 20px;
+                    font-weight: bold;}
+table, th, td {border: 1px solid black;
+background-color: white;}
+img {height:150px; width:150px;}
+
+
+
+
+
+
+
+
+
+
 
